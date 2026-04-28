@@ -1,65 +1,77 @@
-<h1 align="center">Hi, I'm Rebeca</h1>
+<h1 align="center">
+  🌸 hi there, i'm <em>rebeca</em>
+</h1>
 
 <p align="center">
-  Backend Developer in progress
+  <i>
+    "The limits of my language mean the limits of my world." <br>
+    -Ludwig Wittgenstein
+  </i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-blue">
-  <img src="https://img.shields.io/badge/Python-yellow">
-  <img src="https://img.shields.io/badge/Git-black">
+  <img src="https://img.shields.io/badge/java-ffb6c1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/python-ffc0cb?style=for-the-badge">
+  <img src="https://img.shields.io/badge/c-f8c8dc?style=for-the-badge">
+  <img src="https://img.shields.io/badge/c++-f4a7b9?style=for-the-badge">
 </p>
 
----
 
-## About Me
 
-<ul>
-  <li>Computer Systems Engineering student</li>
-  <li>Interested in backend development and data processing</li>
-  <li>Currently working with Java and Python projects</li>
-</ul>
+<p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
 
----
+### Currently building
 
-## Projects
+working on a **customizable minesweeper app in java**  
+I LOVE logical games... don't even get me started with sudoku.
 
-<table>
-<tr>
-<td width="50%">
 
-<h3>Book Manager (Java CLI)</h3>
-<p>Console application to manage books with file persistence.</p>
 
-</td>
+<p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
 
-<td width="50%">
+### Currently learning
 
-<h3>DBSCAN Clustering</h3>
-<p>Data classification project with automatic report generation.</p>
+diving into the **full web development stack**
+I absolutely love pretty, intuitive frontends.
+Love efficient, clean backends even more
 
-</td>
-</tr>
-</table>
 
----
 
-## Skills
+<p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
 
-<p>
-Java<br>
-Python<br>
-File Handling<br>
-OOP<br>
-Basic Data Analysis
-</p>
-
----
-
-## GitHub Stats
+### Languages & tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RebecaSanchez&show_icons=true">
+
+`☕ Java` &nbsp;&nbsp;
+`🐍 Python` &nbsp;&nbsp;
+`⚙️ C` &nbsp;&nbsp;
+`➕ C++` &nbsp;&nbsp;
+`🤖 Machine Learning`
+
 </p>
 
----
+
+
+<p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
+
+### Interests
+
+<p align="center">
+
+data analysis &nbsp;&nbsp;•&nbsp;&nbsp;
+full stack dev &nbsp;&nbsp;•&nbsp;&nbsp;
+ML & AI
+
+</p>
+
+
+
+<p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
+
+### Fun fact
+
+> I wanted to do math... but I found computers get me very well
+
+
+
