@@ -63,9 +63,3 @@ Basic Data Analysis
 </p>
 
 ---
-
-## Contact
-
-<p>
-Email: your@email.com
-</p>
