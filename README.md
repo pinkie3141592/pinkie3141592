@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rebeca</h1>
 
-<!--
-**pinkie3141592/pinkie3141592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Developer in progress
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-blue">
+  <img src="https://img.shields.io/badge/Python-yellow">
+  <img src="https://img.shields.io/badge/Git-black">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+<ul>
+  <li>Computer Systems Engineering student</li>
+  <li>Interested in backend development and data processing</li>
+  <li>Currently working with Java and Python projects</li>
+</ul>
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>Book Manager (Java CLI)</h3>
+<p>Console application to manage books with file persistence.</p>
+
+</td>
+
+<td width="50%">
+
+<h3>DBSCAN Clustering</h3>
+<p>Data classification project with automatic report generation.</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skills
+
+<p>
+Java<br>
+Python<br>
+File Handling<br>
+OOP<br>
+Basic Data Analysis
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RebecaSanchez&show_icons=true">
+</p>
+
+---
+
+## Contact
+
+<p>
+Email: your@email.com
+</p>
