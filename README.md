@@ -4,6 +4,12 @@
 
 <p align="center">
   <i>
+    logic · simplicity · systems · data
+  </i>
+</p>
+
+<p align="center">
+  <i>
     "The limits of my language mean the limits of my world." <br>
     -Ludwig Wittgenstein
   </i>
@@ -31,9 +37,9 @@ I LOVE logical games... don't even get me started with sudoku.
 
 ### Currently learning
 
-diving into the **full web development stack**
-I absolutely love pretty, intuitive frontends.
-Love efficient, clean backends even more
+Diving into the **full web development stack**.
+<br>I absolutely love pretty, intuitive frontends.
+<br>Love efficient, clean backends even more
 
 
 
