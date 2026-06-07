@@ -29,7 +29,6 @@
 ### Currently building
 
 working on a **customizable minesweeper app in java**  
-I LOVE logical games... don't even get me started with sudoku.
 
 
 
@@ -38,8 +37,6 @@ I LOVE logical games... don't even get me started with sudoku.
 ### Currently learning
 
 Diving into the **full web development stack**.
-<br>I absolutely love pretty, intuitive frontends.
-<br>Love efficient, clean backends even more
 
 
 
@@ -77,7 +74,7 @@ ML & AI
 
 ### Fun fact
 
-> I wanted to do math... but I found computers get me very well
+> I wanted to do math, but I found computers get me very well
 
 
 
