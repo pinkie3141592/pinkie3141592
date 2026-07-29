@@ -1,12 +1,6 @@
 <h1 align="center">
-  🌸 hi there, i'm <em>rebeca</em>
+  🌸 Rebeca
 </h1>
-
-<p align="center">
-  <i>
-    logic · simplicity · systems · data
-  </i>
-</p>
 
 <p align="center">
   <i>
@@ -71,10 +65,6 @@ ML & AI
 
 
 <p align="center">⋆｡‧˚ʚ♡ɞ˚‧｡⋆</p>
-
-### Fun fact
-
-> I wanted to do math, but I found computers get me very well
 
 
 
